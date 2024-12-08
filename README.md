@@ -26,7 +26,7 @@ ChatApp is a campus-level communication platform designed to ensure secure and e
 ## 🎥 Demo 🌐
 
 - **Web:** [ChatApp](http://chatapp.000.pe/)
-- **APK:** [ChatApp.apk](https://github.com/rudrarathod/ChatApp/blob/main/ChatApp.apk)
+- **APK:** [ChatApp.apk](https://github.com/rudrarathod/ChatApp/raw/refs/heads/main/ChatApp.apk)
 - **Demo User Email:** `testuser@msm.com`
 - **Demo User Enrollment ID:** `123456789`
 - **Demo User Password:** `testuser`
