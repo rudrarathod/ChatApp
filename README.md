@@ -42,6 +42,10 @@ ChatApp is a campus-level communication platform designed to ensure secure and e
 
 ## 🛠️ Installation Instructions 📂
 
+### 0. Folder Setup 📂
+
+1. Copy the downloded file into htdoc of your server (eg.,xampp\htdocs)
+
 ### 1. Database Setup 📊
 
 1. Create a new MySQL database for the project.
