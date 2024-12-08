@@ -111,4 +111,4 @@ ChatApp is a campus-level communication platform designed to ensure secure and e
 ## 📌 Notes 📄
 
 - Ensure all configurations are correctly completed before using the app. ✅
-- For troubleshooting or additional setup guidance, refer to the documentation or contact support at [rudrarathod738@gmail.com](mailto:rudrarathod738@gmail.com). 📞
+- For troubleshooting or additional setup guidance, refer to the documentation or contact me. 📞
